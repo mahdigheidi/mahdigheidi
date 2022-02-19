@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mahdigheidi,
-- I’m interested in Artificial Intelligence and also building and collaborating on softwares,
-- I’m currently learning DevOps and Machine Learning,
+- I’m interested in Algorithms, Artificial Intelligence and software archiecture.
+- I’m currently a student at Sharif University of Technology,
+- I have previously worked in two great companies in Iran as an intern. 
 - 📫 You can reach me via email at gheidi@ce.sharif.edu/gheidimahdi@gmail.com
 
 <!---
