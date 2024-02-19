@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **@mahdigheidi**,
-- I am a Computer Engineering student at Sharif University of Technology, and a Software Engineer at Divar.
-- You can view my full resume at [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/)
+- 💻 I am a Computer Engineering student at Sharif University of Technology, and a Software Engineer at Divar.
+- 😍 Interested in Natural Language Processing, Deep Learning, Software Engineering and fixing code!
+- 📃 You can view my full resume at [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/)
 - 📫 You can reach me via email at gheidimahdi@gmail.com or mahdi.gheidi@sharif.edu
 
 <!---
