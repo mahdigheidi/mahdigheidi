@@ -1,4 +1,4 @@
-[![Mahdi Gheidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdigheidi&hide=stars&theme=transparent&hide_border=true&line_height=50)](https://github.com/mahdigheidi/github-readme-stats)
+[![Mahdi Gheidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdigheidi&hide=stars&theme=transparent&line_height=50)](https://github.com/mahdigheidi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdigheidi)](https://github.com/mahdigheidi/github-readme-stats)
 
 - 👋 Hi, I’m **@mahdigheidi**,
