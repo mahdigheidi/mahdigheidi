@@ -1,3 +1,5 @@
+[![Mahdi Gheidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdigheidi)](https://github.com/mahdigheidi/github-readme-stats)
+
 - 👋 Hi, I’m **@mahdigheidi**,
 - 💻 I am a Computer Engineering student at Sharif University of Technology, and a Software Engineer at Divar.
 - 😍 Interested in Natural Language Processing, Deep Learning, Software Engineering and fixing code!
