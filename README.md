@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@mahdigheidi**,
-- Currently a bachelor student of computer engineering at Sharif University of Technology,
+- I am a Computer Engineering student at Sharif University of Technology, and a Software Engineer at Divar.
 - You can view my full resume at [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/)
 - 📫 You can reach me via email at gheidimahdi@gmail.com or mahdi.gheidi@sharif.edu
 
