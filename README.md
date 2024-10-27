@@ -2,10 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdigheidi)](https://github.com/mahdigheidi/github-readme-stats)
 
 - 👋 Hi, I’m **@mahdigheidi**,
-- 💻 I am a Computer Engineering student at Sharif University of Technology, and a Software Engineer at Divar.
+- 💻 I am a Computer Science masters student at University of Freiburg, and a certified ServiceNow Technical Consultant at Serity.
 - 😍 Interested in Natural Language Processing, Deep Learning, Software Engineering and fixing code!
 - 📃 You can view my full resume at [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/)
-- 📫 You can reach me via email at gheidimahdi@gmail.com or mahdi.gheidi@sharif.edu
+- 📫 You can reach me via email at gheidimahdi@gmail.com or mohammad.gheidi@uni-freiburg.de
 
 <!---
 mahdigheidi/mahdigheidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
