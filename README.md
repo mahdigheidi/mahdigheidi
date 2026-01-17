@@ -2,10 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdigheidi)](https://github.com/mahdigheidi/github-readme-stats)
 
 - 👋 Hi, I’m **@mahdigheidi**,
-- 💻 I am a Computer Science masters student at University of Freiburg, and a certified ServiceNow Technical Consultant at Serity.
-- 😍 Interested in Natural Language Processing, Deep Learning, Software Engineering and fixing code!
+- 💻 I am an AI masters student at University of Freiburg.
+- 😍 I like to study Deep Reinforcment Learning. But I also wouldn't mind NLP, Software Engineering, Operating Systems and anything that can be coded.
 - 📃 You can view my full resume at [LinkedIn](https://www.linkedin.com/in/mahdi-gheidi/)
-- 📫 You can reach me via email at gheidimahdi@gmail.com or mohammad.gheidi@uni-freiburg.de
+- 📫 You can reach me via email at gheidimahdi@gmail.com or gheidim@informatik.uni-freiburg.de
 
 <!---
 mahdigheidi/mahdigheidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
